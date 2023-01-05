@@ -21,7 +21,7 @@ const Home = () => {
             <div className="flex justify-center items-center h-full">
               <div className="text-center text-white px-6 py-6 md:py-0 md:px-12 max-w-[800px]">
                 <h2 className="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight leading-tight mb-12">
-                  Bienvenue au <span className=' text-pink-500'>S</span>ervice de la <br /><span> <span className=' text-pink-500'>T</span>ransformation  <span className=' text-pink-500'>D</span>igitale <span className=' text-pink-500'>(DTD)</span></span>
+                  Bienvenue à la <span className=' text-pink-500'>D</span>irection de la <br /><span> <span className=' text-pink-500'>T</span>ransformation  <span className=' text-pink-500'>D</span>igitale <span className=' text-pink-500'>(DTD)</span></span>
                 </h2>
                 <p className="text-lg">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia

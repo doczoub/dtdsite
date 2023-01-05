@@ -14,7 +14,7 @@ export default function FooterAdmin() {
                   href="https://www.creative-tim.com?ref=nr-footer-admin"
                   className="text-gray-500 hover:text-gray-700 text-sm font-semibold py-1"
                 >
-                  Creative Tim
+                  ZoubeyrouCode
                 </a>
               </div>
             </div>
@@ -25,7 +25,7 @@ export default function FooterAdmin() {
                     href="https://www.creative-tim.com?ref=nr-footer-admin"
                     className="text-gray-600 hover:text-gray-800 text-sm font-semibold block py-1 px-3"
                   >
-                    Creative Tim
+                    La DTD
                   </a>
                 </li>
                 <li>
@@ -33,7 +33,7 @@ export default function FooterAdmin() {
                     href="https://www.creative-tim.com/presentation?ref=nr-footer-admin"
                     className="text-gray-600 hover:text-gray-800 text-sm font-semibold block py-1 px-3"
                   >
-                    About Us
+                    A Propos
                   </a>
                 </li>
                 <li>
@@ -49,7 +49,7 @@ export default function FooterAdmin() {
                     href="https://github.com/creativetimofficial/notus-react/blob/main/LICENSE.md?ref=nr-footer-admin"
                     className="text-gray-600 hover:text-gray-800 text-sm font-semibold block py-1 px-3"
                   >
-                    MIT License
+                    Quipux License
                   </a>
                 </li>
               </ul>
